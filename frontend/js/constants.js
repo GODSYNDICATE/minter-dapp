@@ -1,7 +1,7 @@
 const contractAddress = "0x7F99D88A6bCcc92AeBa4c7875511a2375bBF61e9"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the GODSYNDICATE!!!";
+const welcome_h1 = "Welcome to GODSYNDICATE!!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
 const welcome_p = 'Handdrawn collection of 5000 unique images of inter- and multidimensional beings and entities. Who have found a way to build a portal to the Metaverse. GODSYNDICATE is a decentralized, open-source project that aims to help the starter with their first NFT in the digital world.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
